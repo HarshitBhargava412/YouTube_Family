@@ -9,7 +9,6 @@ def draw(len):
     if (len < 10):
         return
     else:
-        
         pensize(2)
         pencolor("yellow")
         forward(len)
@@ -89,7 +88,6 @@ def draw(len):
     if (len < 10):
         return
     else:
-        
         pensize(3)
         pencolor("lightgreen")
         forward(len)
@@ -169,7 +167,6 @@ def draw(len):
     if (len < 10):
         return
     else:
-        
         pensize(2)
         pencolor("cyan")
         forward(len)
